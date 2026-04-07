@@ -127,7 +127,7 @@ export default function ContactPage() {
                 </h3>
               </div>
               <p className="text-white font-almarai">
-                المملكة العربية السعودية - مكة المكرمة
+                المملكة العربية السعودية -  الرياض
               </p>
             </div>
           </motion.div>

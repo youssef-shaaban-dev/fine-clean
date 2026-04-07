@@ -21,7 +21,7 @@ const RightSections = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.7, delay: 0.5 }}
           >
-            شركة فاين كلين للخدمات المنزلية المتكاملة بمكة المكرمة
+            شركة فاين كلين للخدمات المنزلية المتكاملة الرياض
             <br />
             <span className="text-orange text-sm font-semibold">
               (نظافة المنازل - صيانة المكيفات -مكافحة الحشرات - عزل الخزانات - نقل الأثاث)

@@ -17,7 +17,7 @@ const Banner = () => {
           viewport={{ once: true, amount: 0.2 }}
         >
           <img
-            src="/images/cleaning.jpg"
+            src="/images/banner.jpeg"
             alt="خدمات النظافة المتميزة - فاين كلين"
             className="w-full h-auto max-h-[300px] md:max-h-[450px] object-contain rounded-xl hover:scale-105 transition-transform duration-300"
           />
